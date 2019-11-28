@@ -56,9 +56,9 @@ _Why will I be doing this?_
 | 1    | Nov 22 | Setup the repo -- **Completed:** [Predict numeric values with regression](https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/index?WT.mc_id=azurelearning-github-ninarasi) |
 | 2    | Nov 23 | Setup #100Days plan -- **Completed:** [Predict categories with machine learning classification](https://docs.microsoft.com/en-us/learn/modules/introduction-to-classification/index?WT.mc_id=azurelearning-github-ninarasi) |
 | 3    | Nov 24 | Finalized #100Days plan -- **Completed:** [Make Predictions from Complex Data with Neural Networks](https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/index?WT.mc_id=azurelearning-github-ninarasi) |
-| 4    | Nov 25 | **Completed:** [Use deep learning models to make predictions about specialized data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-deep-learning/index)  |
+| 4    | Nov 25 | **Completed:** [Use deep learning models to make predictions about specialized data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-deep-learning/index?WT.mc_id=azurelearning-github-ninarasi)  |
 | 5    | Nov 26 |  _Missed:_ Family time took priority.  | 
-| 6    | Nov 27 |  _Planned:_ [Use unsupervised learning to analyze unlabeled data]() |
+| 6    | Nov 27 |  _Completed:_ [Use unsupervised learning to analyze unlabeled data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/?WT.mc_id=azurelearning-github-ninarasi) -- ✅[Machine Learning Crash Course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/?WT.mc_id=azurelearning-github-ninarasi) |
 | 7    | Nov 28 |  _Planned:_ []() |
 | 8    | Nov 29 |  _Planned:_ []() |
 | 9    | Nov 30 |  _Planned:_ []() |
