@@ -41,7 +41,7 @@ _Why will I be doing this?_
  * [Publish a ML Experiment with Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/en-us/learn/paths/publish-experiment-with-ml-studio/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
  * [Get started with Machine Learning with an Azure Data Science Virtual Machine](https://docs.microsoft.com/en-us/learn/paths/get-started-with-azure-dsvm/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
 
-> [Just For Fun](https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&levels=beginner&products=power-platform&WT.mc_id=azurelearning-github-ninarasi)
+> [**JUST FOR FUN**](https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&levels=beginner&products=power-platform&WT.mc_id=azurelearning-github-ninarasi)
 
  * [Microsoft Power Plaform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/?WT.mc_id=azurelearning-github-ninarasi) - 12 hrs
  * [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/dyn-power-plat-bus-app-fundamentals/?WT.mc_id=azurelearning-github-ninarasi) - 6 hrs
