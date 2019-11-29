@@ -18,7 +18,7 @@ _Why will I be doing this?_
 
 > [**AZURE FOR BEGINNERS** / Breadth]()
 
- * [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/?WT.mc_id=azurelearning-github-ninarasi) - 10 hrs
+ * [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/?WT.mc_id=azurelearning-github-ninarasi) - 10 hrs - [**Study Plan**](AzureFundamentals.md)
  * [Learn the Business Value of Microsoft Azure](https://docs.microsoft.com/en-us/learn/paths/learn-business-value-of-azure/?WT.mc_id=azurelearning-github-ninarasi) - 5 hrs
  * [Azure for the Data Engineer](https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
 
@@ -49,7 +49,7 @@ _Why will I be doing this?_
 
 
 
-## 100 Days [Nov 22, 2019 - Mar 1, 2020)
+> **#100Days EXECUTION:** [Nov 22, 2019 - Mar 1, 2020)
 
 | Day  | Date   | Activities |
 | ---- | ------ | ---------- |
@@ -58,11 +58,11 @@ _Why will I be doing this?_
 | 3    | Nov 24 | Finalized #100Days plan <br/>  **Completed:** [Make Predictions from Complex Data with Neural Networks](https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/index?WT.mc_id=azurelearning-github-ninarasi) |
 | 4    | Nov 25 | **Completed:** [Use deep learning models to make predictions about specialized data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-deep-learning/index?WT.mc_id=azurelearning-github-ninarasi)  |
 | 5    | Nov 26 |  _Missed:_ Family time took priority.  | 
-| 6    | Nov 27 |  **Completed:** [Use unsupervised learning to analyze unlabeled data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/?WT.mc_id=azurelearning-github-ninarasi) <br/> **Completed:** [Machine Learning Crash Course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/?WT.mc_id=azurelearning-github-ninarasi) ✅ |
-| 7    | Nov 28 |  _Planned:_ [Azure Fundamentals / Cloud Concepts - Principles of Cloud Computing](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/index?WT.mc_id=azurelearning-github-ninarasi) |
-| 8    | Nov 29 |  _Planned:_ []() |
-| 9    | Nov 30 |  _Planned:_ []() |
-| 10   | Dec 01 |  _Planned:_ []() |
+| 6    | Nov 27 |  **Completed:** [Use unsupervised learning to analyze unlabeled data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/?WT.mc_id=azurelearning-github-ninarasi) <br/> **Completed:** [Machine Learning Crash Course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path)  ✅ |
+| 7    | Nov 28 |  Created [Study Plan](AzureFundamentals.md) for Azure Fundamentals. <br> **Completed:** [Introduction to AI Technology for Business Leaders](https://docs.microsoft.com/en-us/learn/paths/ai-technology-for-business-leaders/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path)  ✅ |
+| 8    | Nov 29 |  _Planned:_ [Intro to ML with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path) <br/> _Planned:_ [Identify Guiding Principles for Responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Identify Guiding Principles for Responsible AI in Government](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-government-principles/?WT.mc_id=azurelearning-github-ninarasi) |
+| 9    | Nov 30 | _Planned:_ [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/?WT.mc_id=azurelearning-github-ninarasi) |
+| 10   | Dec 01 |  _Planned:_ [Azure Fundamentals - Study Plan](AzureFundamentals.md) |
 | 11   | Dec 02 |  _Planned:_ []() |
 | 12   | Dec 03 |  _Planned:_ []() |
 | 13   | Dec 04 |  _Planned:_ []() |
