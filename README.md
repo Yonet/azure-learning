@@ -63,13 +63,16 @@ _Why will I be doing this?_
 | 5    | Nov 26 |  _Missed:_ Family time took priority.  | 
 | 6    | Nov 27 |  **Completed:** [Use unsupervised learning to analyze unlabeled data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/?WT.mc_id=azurelearning-github-ninarasi) <br/> **Completed:** [Machine Learning Crash Course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path)  ✅ |
 | 7    | Nov 28 |  Created [Study Plan](AzureFundamentals.md) for Azure Fundamentals. <br> **Completed:** [Introduction to AI Technology for Business Leaders](https://docs.microsoft.com/en-us/learn/paths/ai-technology-for-business-leaders/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path)  ✅ |
+| 8   | Nov 29 | **Completed:** [Identify Guiding Principles for Responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/?WT.mc_id=azurelearning-github-ninarasi)|
+| 9  | Nov 30  | _In Progress:_ [Intro to ML with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path) |
+| | | |
 
 
 ### Future
 
 | Day  | Date   | Activities |
 | ---- | ------ | ---------- |
-| 8    | Nov 29 |  _Planned:_ [Intro to ML with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path) <br/> _Planned:_ [Identify Guiding Principles for Responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Identify Guiding Principles for Responsible AI in Government](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-government-principles/?WT.mc_id=azurelearning-github-ninarasi) |
-| 9    | Nov 30 | _Planned:_ [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/?WT.mc_id=azurelearning-github-ninarasi) |
-| 10   | Dec 01 |  _Planned:_ [Azure Fundamentals - Study Plan](AzureFundamentals.md) |
+| -    | -      |  _Planned:_ [Azure Fundamentals - Study Plan](AzureFundamentals.md) |
+| -    |  -     |  _Planned:_ [Identify Guiding Principles for Responsible AI in Government](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-government-principles/?WT.mc_id=azurelearning-github-ninarasi) |
+| -    |  -     | _Planned:_ [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/?WT.mc_id=azurelearning-github-ninarasi) |
 
