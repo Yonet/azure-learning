@@ -23,7 +23,7 @@ _Why will I be doing this?_
  * [Learn the Business Value of Microsoft Azure](https://docs.microsoft.com/learn/paths/learn-business-value-of-azure/?WT.mc_id=aiml-0000-ayyonet) - 5 hrs
  * [Azure for the Data Engineer](https://docs.microsoft.com/learn/paths/azure-for-the-data-engineer/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
 
-### [**MACHINE LEARNING AND AI**]( https://docs.microsoft.com/learn/browse/?term=machine learning&resource_type=learning path&WT.mc_id=aiml-0000-ayyonet)
+### [**MACHINE LEARNING AND AI**]( https://docs.microsoft.com/learn/browse/?term=machine&WT.mc_id=aiml-0000-ayyonet learning&resource_type=learning path&WT.mc_id=aiml-0000-ayyonet)
 
 **General**
  * [Machine Learning Crash Course](https://docs.microsoft.com/learn/paths/ml-crash-course/?WT.mc_id=aiml-0000-ayyonet) - 4 hrs
@@ -42,7 +42,7 @@ _Why will I be doing this?_
  * [Publish a ML Experiment with Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/learn/paths/publish-experiment-with-ml-studio/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
  * [Get started with Machine Learning with an Azure Data Science Virtual Machine](https://docs.microsoft.com/learn/paths/get-started-with-azure-dsvm/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
 
-### [**JUST FOR FUN**](https://docs.microsoft.com/learn/browse/?resource_type=learning path&levels=beginner&products=power-platform&WT.mc_id=aiml-0000-ayyonet)
+### [**JUST FOR FUN**](https://docs.microsoft.com/learn/browse/?resource_type=learning&WT.mc_id=aiml-0000-ayyonet path&levels=beginner&products=power-platform&WT.mc_id=aiml-0000-ayyonet)
 
  * [Microsoft Power Plaform Fundamentals](https://docs.microsoft.com/learn/paths/power-plat-fundamentals/?WT.mc_id=aiml-0000-ayyonet) - 12 hrs
  * [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/learn/paths/dyn-power-plat-bus-app-fundamentals/?WT.mc_id=aiml-0000-ayyonet) - 6 hrs
