@@ -23,7 +23,7 @@ _Why will I be doing this?_
  * [Learn the Business Value of Microsoft Azure](https://docs.microsoft.com/learn/paths/learn-business-value-of-azure/?WT.mc_id=aiml-0000-ayyonet) - 5 hrs
  * [Azure for the Data Engineer](https://docs.microsoft.com/learn/paths/azure-for-the-data-engineer/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
 
-### [**MACHINE LEARNING AND AI**]( https://docs.microsoft.com/learn/browse/?term=machine&WT.mc_id=aiml-0000-ayyonet learning&resource_type=learning path&WT.mc_id=aiml-0000-ayyonet)
+### [**MACHINE LEARNING AND AI**](https://docs.microsoft.com/learn/browse/?term=machine&terms=machine%20learning&WT.mc_id=aiml-10707-ayyonet)
 
 **General**
  * [Machine Learning Crash Course](https://docs.microsoft.com/learn/paths/ml-crash-course/?WT.mc_id=aiml-0000-ayyonet) - 4 hrs
