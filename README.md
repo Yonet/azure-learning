@@ -19,34 +19,34 @@ _Why will I be doing this?_
 ## TOPICS
 ### [**AZURE FOR BEGINNERS** / Breadth]()
 
- * [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/?WT.mc_id=azurelearning-github-ninarasi) - 10 hrs - [**Study Plan**](AzureFundamentals.md)
- * [Learn the Business Value of Microsoft Azure](https://docs.microsoft.com/en-us/learn/paths/learn-business-value-of-azure/?WT.mc_id=azurelearning-github-ninarasi) - 5 hrs
- * [Azure for the Data Engineer](https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
+ * [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=aiml-0000-ayyonet) - 10 hrs - [**Study Plan**](AzureFundamentals.md)
+ * [Learn the Business Value of Microsoft Azure](https://docs.microsoft.com/learn/paths/learn-business-value-of-azure/?WT.mc_id=aiml-0000-ayyonet) - 5 hrs
+ * [Azure for the Data Engineer](https://docs.microsoft.com/learn/paths/azure-for-the-data-engineer/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
 
-### [**MACHINE LEARNING AND AI**]( https://docs.microsoft.com/en-us/learn/browse/?term=machine%20learning&resource_type=learning%20path)
+### [**MACHINE LEARNING AND AI**](https://docs.microsoft.com/learn/browse/?term=machine&terms=machine%20learning&WT.mc_id=aiml-10707-ayyonet)
 
 **General**
- * [Machine Learning Crash Course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/?WT.mc_id=azurelearning-github-ninarasi) - 4 hrs
- * [Introduction to AI Technology for Business Leaders](https://docs.microsoft.com/en-us/learn/paths/ai-technology-for-business-leaders/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
- * [Identify Guiding Principles for Responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
- * [Identify Guiding Principles for Responsible AI in Government](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-government-principles/?WT.mc_id=azurelearning-github-ninarasi) - 3 hrs
+ * [Machine Learning Crash Course](https://docs.microsoft.com/learn/paths/ml-crash-course/?WT.mc_id=aiml-0000-ayyonet) - 4 hrs
+ * [Introduction to AI Technology for Business Leaders](https://docs.microsoft.com/learn/paths/ai-technology-for-business-leaders/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
+ * [Identify Guiding Principles for Responsible AI](https://docs.microsoft.com/learn/paths/responsible-ai-business-principles/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
+ * [Identify Guiding Principles for Responsible AI in Government](https://docs.microsoft.com/learn/paths/responsible-ai-government-principles/?WT.mc_id=aiml-0000-ayyonet) - 3 hrs
 
  **Specialization**
 
- * [Create Intelligent Bots with the Azure Bot Service](https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/?WT.mc_id=azurelearning-github-ninarasi) - 3 hrs
- * [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
- * [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/?WT.mc_id=azurelearning-github-ninarasi) - 3 hrs
- * [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/?WT.mc_id=azurelearning-github-ninarasi) - 3 hrs
- * [Introduction to Machine Learning with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=azurelearning-github-ninarasi) - 3 hrs
- * [Build AI Solutions with Azure ML Service](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=azurelearning-github-ninarasi) - 4 hrs
- * [Publish a ML Experiment with Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/en-us/learn/paths/publish-experiment-with-ml-studio/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
- * [Get started with Machine Learning with an Azure Data Science Virtual Machine](https://docs.microsoft.com/en-us/learn/paths/get-started-with-azure-dsvm/?WT.mc_id=azurelearning-github-ninarasi) - 2 hrs
+ * [Create Intelligent Bots with the Azure Bot Service](https://docs.microsoft.com/learn/paths/create-bots-with-the-azure-bot-service/?WT.mc_id=aiml-0000-ayyonet) - 3 hrs
+ * [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/learn/paths/translate-speech-with-speech-services/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
+ * [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/learn/paths/classify-images-with-vision-services/?WT.mc_id=aiml-0000-ayyonet) - 3 hrs
+ * [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/learn/paths/evaluate-text-with-language-services/?WT.mc_id=aiml-0000-ayyonet) - 3 hrs
+ * [Introduction to Machine Learning with Python and Azure Notebooks](https://docs.microsoft.com/learn/paths/intro-to-ml-with-python/?WT.mc_id=aiml-0000-ayyonet) - 3 hrs
+ * [Build AI Solutions with Azure ML Service](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=aiml-0000-ayyonet) - 4 hrs
+ * [Publish a ML Experiment with Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/learn/paths/publish-experiment-with-ml-studio/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
+ * [Get started with Machine Learning with an Azure Data Science Virtual Machine](https://docs.microsoft.com/learn/paths/get-started-with-azure-dsvm/?WT.mc_id=aiml-0000-ayyonet) - 2 hrs
 
-### [**JUST FOR FUN**](https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&levels=beginner&products=power-platform&WT.mc_id=azurelearning-github-ninarasi)
+### [**JUST FOR FUN**](https://docs.microsoft.com/learn/browse/?resource_type=learning&WT.mc_id=aiml-0000-ayyonet path&levels=beginner&products=power-platform&WT.mc_id=aiml-0000-ayyonet)
 
- * [Microsoft Power Plaform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/?WT.mc_id=azurelearning-github-ninarasi) - 12 hrs
- * [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/dyn-power-plat-bus-app-fundamentals/?WT.mc_id=azurelearning-github-ninarasi) - 6 hrs
- * [Learn the Business value of Microsoft 365 and Power Platform](https://docs.microsoft.com/en-us/learn/paths/learn-business-value-of-dynamics-365-and-power-platform-v1-1/?WT.mc_id=azurelearning-github-ninarasi) - 8 hrs
+ * [Microsoft Power Plaform Fundamentals](https://docs.microsoft.com/learn/paths/power-plat-fundamentals/?WT.mc_id=aiml-0000-ayyonet) - 12 hrs
+ * [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/learn/paths/dyn-power-plat-bus-app-fundamentals/?WT.mc_id=aiml-0000-ayyonet) - 6 hrs
+ * [Learn the Business value of Microsoft 365 and Power Platform](https://docs.microsoft.com/learn/paths/learn-business-value-of-dynamics-365-and-power-platform-v1-1/?WT.mc_id=aiml-0000-ayyonet) - 8 hrs
 
 
 
@@ -56,15 +56,15 @@ _Why will I be doing this?_
 
 | Day  | Date   | Activities |
 | ---- | ------ | ---------- |
-| 1    | Nov 22 | Setup the repo <br/> **Completed:** [Predict numeric values with regression](https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/index?WT.mc_id=azurelearning-github-ninarasi) |
-| 2    | Nov 23 | Setup #100Days plan <br/>  **Completed:** [Predict categories with machine learning classification](https://docs.microsoft.com/en-us/learn/modules/introduction-to-classification/index?WT.mc_id=azurelearning-github-ninarasi) |
-| 3    | Nov 24 | Finalized #100Days plan <br/>  **Completed:** [Make Predictions from Complex Data with Neural Networks](https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/index?WT.mc_id=azurelearning-github-ninarasi) |
-| 4    | Nov 25 | **Completed:** [Use deep learning models to make predictions about specialized data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-deep-learning/index?WT.mc_id=azurelearning-github-ninarasi)  |
+| 1    | Nov 22 | Setup the repo <br/> **Completed:** [Predict numeric values with regression](https://docs.microsoft.com/learn/modules/introduction-to-regression/index?WT.mc_id=aiml-0000-ayyonet) |
+| 2    | Nov 23 | Setup #100Days plan <br/>  **Completed:** [Predict categories with machine learning classification](https://docs.microsoft.com/learn/modules/introduction-to-classification/index?WT.mc_id=aiml-0000-ayyonet) |
+| 3    | Nov 24 | Finalized #100Days plan <br/>  **Completed:** [Make Predictions from Complex Data with Neural Networks](https://docs.microsoft.com/learn/modules/introduction-to-neural-networks/index?WT.mc_id=aiml-0000-ayyonet) |
+| 4    | Nov 25 | **Completed:** [Use deep learning models to make predictions about specialized data](https://docs.microsoft.com/learn/modules/introduction-to-deep-learning/index?WT.mc_id=aiml-0000-ayyonet)  |
 | 5    | Nov 26 |  _Missed:_ Family time took priority.  | 
-| 6    | Nov 27 |  **Completed:** [Use unsupervised learning to analyze unlabeled data](https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/?WT.mc_id=azurelearning-github-ninarasi) <br/> **Completed:** [Machine Learning Crash Course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path)  ✅ |
-| 7    | Nov 28 |  Created [Study Plan](AzureFundamentals.md) for Azure Fundamentals. <br> **Completed:** [Introduction to AI Technology for Business Leaders](https://docs.microsoft.com/en-us/learn/paths/ai-technology-for-business-leaders/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path)  ✅ |
-| 8   | Nov 29 | **Completed:** [Identify Guiding Principles for Responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/?WT.mc_id=azurelearning-github-ninarasi)|
-| 9  | Nov 30  | _In Progress:_ [Intro to ML with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=azurelearning-github-ninarasi) (Learning Path) |
+| 6    | Nov 27 |  **Completed:** [Use unsupervised learning to analyze unlabeled data](https://docs.microsoft.com/learn/modules/introduction-to-unsupervised-learning/?WT.mc_id=aiml-0000-ayyonet) <br/> **Completed:** [Machine Learning Crash Course](https://docs.microsoft.com/learn/paths/ml-crash-course/?WT.mc_id=aiml-0000-ayyonet) (Learning Path)  ✅ |
+| 7    | Nov 28 |  Created [Study Plan](AzureFundamentals.md) for Azure Fundamentals. <br> **Completed:** [Introduction to AI Technology for Business Leaders](https://docs.microsoft.com/learn/paths/ai-technology-for-business-leaders/?WT.mc_id=aiml-0000-ayyonet) (Learning Path)  ✅ |
+| 8   | Nov 29 | **Completed:** [Identify Guiding Principles for Responsible AI](https://docs.microsoft.com/learn/paths/responsible-ai-business-principles/?WT.mc_id=aiml-0000-ayyonet)|
+| 9  | Nov 30  | _In Progress:_ [Intro to ML with Python and Azure Notebooks](https://docs.microsoft.com/learn/paths/intro-to-ml-with-python/?WT.mc_id=aiml-0000-ayyonet) (Learning Path) |
 | | | |
 
 
@@ -73,6 +73,6 @@ _Why will I be doing this?_
 | Day  | Date   | Activities |
 | ---- | ------ | ---------- |
 | -    | -      |  _Planned:_ [Azure Fundamentals - Study Plan](AzureFundamentals.md) |
-| -    |  -     |  _Planned:_ [Identify Guiding Principles for Responsible AI in Government](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-government-principles/?WT.mc_id=azurelearning-github-ninarasi) |
-| -    |  -     | _Planned:_ [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/?WT.mc_id=azurelearning-github-ninarasi) <br/> _Planned:_ [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/?WT.mc_id=azurelearning-github-ninarasi) |
+| -    |  -     |  _Planned:_ [Identify Guiding Principles for Responsible AI in Government](https://docs.microsoft.com/learn/paths/responsible-ai-government-principles/?WT.mc_id=aiml-0000-ayyonet) |
+| -    |  -     | _Planned:_ [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/learn/paths/translate-speech-with-speech-services/?WT.mc_id=aiml-0000-ayyonet) <br/> _Planned:_ [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/learn/paths/classify-images-with-vision-services/?WT.mc_id=aiml-0000-ayyonet) <br/> _Planned:_ [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/learn/paths/evaluate-text-with-language-services/?WT.mc_id=aiml-0000-ayyonet) |
 
